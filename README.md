@@ -1,4 +1,4 @@
-# Credit Card Payment Automation
+# Credit Card Payment Automation in C#
 
 This project is an automated testing framework for a credit card payment feature.  
 It utilizes SpecFlow for Behavior-Driven Development (BDD) and NUnit.  
